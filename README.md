@@ -24,7 +24,7 @@ To add your own domain, read the [Custom Domains](https://vercel.com/docs/custom
 Note, domains typically get applied within minutes; however, it may take 24-48 hours for your DNS to fully resolve.
 
 # Starter Kits
-Each starter kit comes integrated with [BEP](https://bep.life) and [Dola](https://dola.me).
+Each starter kit comes integrated with [BEP](https://bep.life) and [Dola](https://dola.me), and preconfigured to be 1-click deployable on Vercel using `Deploy Now`.
 
 ### BEP
 
