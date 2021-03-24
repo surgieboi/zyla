@@ -1,19 +1,19 @@
 ![Zyla](zyla.jpg)
 
-#Zyla
+# Zyla
 
-The fastest full-stack headless commerce platform in the world
+The fastest full-stack headless commerce platform in the world.
 
-#Overview
+# Overview
 
 Zyla is the fastest end-to-end headless commerce stack that blends cutting-edge content management and commerce tools that can accept payments and ship worldwide on deployment.
 
-#Requirements
+# Requirements
 
 * [Dola](https://dola.me) merchant account 
 * [Vercel](https://vercel.com)
 
-#Getting Started
+# Getting Started
 
 1. Go to [zyla.rocks](https://zyla.rocks) and click `Deploy Now`
 2. Select your [Starter Kit](#starter-kits)
