@@ -1,6 +1,6 @@
 ![Zyla](zyla.jpg)
 
-# Zyla
+#Zyla
 
 The fastest full-stack headless commerce platform in the world
 
