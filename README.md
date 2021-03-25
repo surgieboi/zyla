@@ -17,9 +17,8 @@ Zyla is the fastest end-to-end headless commerce stack that blends cutting-edge 
 
 1. Go to [zyla.rocks](https://zyla.rocks) and click `Deploy Now`
 2. Select your [Starter Kit](#starter-kits)
-3. Add the necessary credentials
-4. Finalize your project details
-5. Deploy!
+3. Finalize your project details
+4. Deploy!
 
 Once your project has been deployed on Vercel, you'll receive a public URL with an SSL automatically applied.
 
