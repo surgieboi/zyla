@@ -45,6 +45,7 @@ Dola is a 1-click checkout and digital wallet. Unlike Apple, Google, or Shop Pay
 * Contentful (Coming Soon)
 * Ghost (Coming Soon)  
 * Prismic (Coming Soon)
+* Sanity (Coming Soon)
 
 # Browser Compatibility
 
