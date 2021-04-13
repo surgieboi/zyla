@@ -50,6 +50,16 @@ Dola is a 1-click checkout and digital wallet. Unlike Apple, Google, or Shop Pay
 * Ghost (Coming Soon)  
 * Prismic (Coming Soon)
 
+# Examples
+
+### Pokedex
+
+![Pokedex](pokedex.jpg)
+
+Pokedex uses Zyla's [GraphCMS & NextJS](https://github.com/dolapay/bep-examples/tree/main/with-graphcms-next) to sell rare Pokemon cards.
+
+[View Store](https://pokedex.fyi/)
+
 # Browser Compatibility
 
 - last 2 Chrome versions
