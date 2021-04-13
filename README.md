@@ -41,13 +41,14 @@ Dola is a 1-click checkout and digital wallet. Unlike Apple, Google, or Shop Pay
 ### Starter Kits
 
 * GraphCMS
+    * [Gatsby](https://github.com/dolapay/bep-examples/tree/main/with-graphcms-gatsby)
     * [NextJS](https://github.com/dolapay/bep-examples/tree/main/with-graphcms-next)
     * [NuxtJS](https://github.com/dolapay/bep-examples/tree/main/with-nuxt-graphcms)
+* Sanity (Ships 4/16/2021)
 * Saelor (Coming Soon)
 * Contentful (Coming Soon)
 * Ghost (Coming Soon)  
 * Prismic (Coming Soon)
-* Sanity (Coming Soon)
 
 # Browser Compatibility
 
