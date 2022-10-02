@@ -44,19 +44,16 @@ Dola is a 1-click checkout and digital wallet. Unlike Apple, Google, or Shop Pay
     * [Gatsby](https://github.com/dolapay/bep-examples/tree/main/with-graphcms-gatsby)
     * [NextJS](https://github.com/dolapay/bep-examples/tree/main/with-graphcms-next)
     * [NuxtJS](https://github.com/dolapay/bep-examples/tree/main/with-nuxt-graphcms)
-* Sanity (Ships 4/16/2021)
-* Saelor (Coming Soon)
-* Contentful (Coming Soon)
-* Ghost (Coming Soon)  
-* Prismic (Coming Soon)
+
+Additional CMS integrations coming soon!
 
 # Examples
 
-### Pokedex
+### Zyla's Swag Store
 
-![Pokedex](pokedex.jpg)
+![Zyla](assets/zyla.jpg)
 
-Pokedex uses Zyla's [GraphCMS & NextJS](https://github.com/dolapay/bep-examples/tree/main/with-graphcms-next) to sell rare Pokemon cards.
+Zyla's swag store uses Zyla's [GraphCMS & NextJS](https://github.com/dolapay/bep-examples/tree/main/with-graphcms-next) to sell rare Pokemon cards.
 
 [View Store](https://pokedex.fyi/)
 
