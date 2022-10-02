@@ -55,7 +55,7 @@ Additional CMS integrations coming soon!
 
 Zyla's swag store uses Zyla's [GraphCMS & NextJS](https://github.com/dolapay/bep-examples/tree/main/with-graphcms-next) to sell rare Pokemon cards.
 
-[View Store](https://pokedex.fyi/)
+[View Store](https://swag.zyla.rocks/)
 
 # Browser Compatibility
 
